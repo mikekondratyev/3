@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+.block1{
+    border-style: double;
+
+    background-color: aquamarine;
+
+    margin: 50px 50px 50px 50px;
+}
+
+.block2{
+    border-style: double;
+    margin: 50px 50px 50px 50px;
+}
+
+.img {
+    text-align: center
+;
+ 
+}
